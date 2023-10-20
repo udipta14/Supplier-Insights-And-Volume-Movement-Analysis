@@ -38,4 +38,6 @@ The "Volume Movement" dashboard allows users to analyze purchase volume and tonn
 **Conclusion:**<br>
 In summary, our Power BI project successfully addresses the complex procurement challenges faced by the company. The "Supplier Overview" dashboard provides quick insights into supplier status and capabilities, aiding the Purchase Department in strategic decision-making. Meanwhile, the "Volume Movement" dashboard offers a comprehensive analysis of purchase and tonnage volume trends, allowing for historical comparisons and future business planning. The combination of these dashboards equips the organization with the tools needed to make data-driven supply chain strategic decisions.
 
-These dashboards provide valuable insights to stakeholders and empower them to optimize procurement processes, minimize costs, and enhance supplier relationships for sustained business growth.
+These dashboards provide valuable insights to stakeholders and empower them to optimize procurement processes, minimize costs, and enhance supplier relationships for sustained business growth.<br><br>
+
+For More Enquiry Click On 👉 [LinkedIn](www.linkedin.com/in/udipta-anupam)
